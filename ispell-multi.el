@@ -1,4 +1,4 @@
-;; ispell-multi.el --- multiple ispell processes and multiple flyspell languages
+;;; ispell-multi.el --- multiple ispell processes and multiple flyspell languages
 ;;
 ;; Copyright (C) 2005 P J Heslin
 ;;
