@@ -20,7 +20,7 @@
 ;; can obtain one by writing to the Free Software Foundation, Inc., 59
 ;; Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 
-;;; Overview:
+;;; Commentary:
 ;;
 ;; ispell-multi.el enables Emacs to keep a number of ispell processes
 ;; alive in order to spell-check text efficiently in multiple
