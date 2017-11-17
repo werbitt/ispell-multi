@@ -5,6 +5,7 @@
 ;; Author: Peter Heslin <p.j.heslin@dur.ac.uk>
 ;; URL: http://www.dur.ac.uk/p.j.heslin/Software/Emacs
 ;; Version: 1.2
+;; Keywords: spelling, ispell, flyspell
 ;;
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
