@@ -172,6 +172,8 @@
 ;;     buffer-local modifications will only be killed when all buffers
 ;;     that have used that process have been killed.
 
+;;; Code:
+
 (require 'ispell)
 ;; For Emacs 21.3, we have to use an updated ispell.el (3.6 or from
 ;; Emacs CVS), and for some reason we may have to load it again to get
