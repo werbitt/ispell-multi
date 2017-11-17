@@ -442,3 +442,5 @@
     (message "ispell-multi -- %s" mess)))
 
 (provide 'ispell-multi)
+
+;;; ispell-multi.el ends here
