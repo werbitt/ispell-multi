@@ -255,7 +255,7 @@
           (if (or (equal ispell-multi-dict "void")
                   (equal ispell-multi-dict "default")
                   (null ispell-multi-dict))
-              ispell-local-dictionary
+              (or ispell-local-dictionary ispell-dictionary)
             ispell-multi-dict))
          (local-mods (ispell-multi-buffer-local-modifications-p))
          (alist (if local-mods
